@@ -1,5 +1,4 @@
-# bgp920.github.io
-gaming page
+
 <!DOCTYPE html> 
 <html> 
     <head> 
