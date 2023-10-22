@@ -13,7 +13,7 @@ They provide a platform for social interaction and competition, fostering commun
       <li> Baldur's gate 
       </li>
       <li> Mortal combat </li>
-  <li> Atomic heart
+  <li> Atomic 
       </li>
       <li> Dredge </li>
 </body> 
